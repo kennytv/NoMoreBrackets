@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "no-more-brackets",
+	"version": "${version}",
+	"name": "No More Brackets",
+	"description": "No more square brackets at the beginning of messages",
+	"authors": [
+		"kennytv"
+	],
+	"license": "MIT",
+	"icon": "assets/no-more-brackets/icon.png",
+	"environment": "client",
+	"mixins": [
+		"no-more-brackets.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": ">=1.20",
+		"java": ">=17"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

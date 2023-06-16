@@ -1,2 +1,1 @@
-# NoMoreBrackets
-https://modrinth.com/mod/no-more-square-brackets
+This is probably the worst thing I had to do all year
